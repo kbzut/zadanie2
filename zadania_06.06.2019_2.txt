@@ -1,0 +1,5 @@
+1.	Wyszukaj najmniej popularne produkty.
+2.	Poka¿ nazwy produktów które w nazwie zawieraj¹ nazwê "Queso".
+3.	Wypisz nazwy dwóch pierwszych z najwiêkszymi wartoœciami z zaopatrzeniowców oraz ³¹czn¹ kwotê produktów w które zaopatruj¹ sklep, ³¹czna wartoœc produktów ma byæ wiêksza ni¿ 100.
+4.	ZnajdŸ œredni wiek pracowników, których nazwisko zaczyna siê na literê "D".
+5.      ZnajdŸ zaopatrzeniowca(supplier) oraz liczbê produktów do których coœ dostarczaj¹ oraz z ilu kategorii pochodz¹ produkty.
